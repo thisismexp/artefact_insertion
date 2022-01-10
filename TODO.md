@@ -1,0 +1,1 @@
+- [ ] add CITATION.cff (https://github.com/citation-file-format/citation-file-format/blob/main/README.md)

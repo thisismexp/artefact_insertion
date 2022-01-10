@@ -1,0 +1,492 @@
+{
+  "_comment": "This document describes all present artefact source images, intermediate files and extracted artefact files.",
+  "_sources": [
+    {
+      "id": 0,
+      "dataset": "Tschandl et al., The HAM10000 dataset, doi:10.1038/sdata.2018.161 (2018)",
+      "license": "Creative Commons Attribution-NonCommercial 4.0 International Public License"
+    }
+  ],
+  "artefacts": [
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0024688.psd",
+      "original_file": "src/ISIC_0024688.jpg",
+      "name": "ISIC_0024688",
+      "artefact_folder": "src/ISIC_0024688",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0024793.psd",
+      "original_file": "src/ISIC_0024793.jpg",
+      "name": "ISIC_0024793",
+      "artefact_folder": "src/ISIC_0024793",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0026352.psd",
+      "original_file": "src/ISIC_0026352.jpg",
+      "name": "ISIC_0026352",
+      "artefact_folder": "src/ISIC_0026352",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0027567.psd",
+      "original_file": "src/ISIC_0027567.jpg",
+      "name": "ISIC_0027567",
+      "artefact_folder": "src/ISIC_0027567",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0028487.psd",
+      "original_file": "src/ISIC_0028487.jpg",
+      "name": "ISIC_0028487",
+      "artefact_folder": "src/ISIC_0028487",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0029572.psd",
+      "original_file": "src/ISIC_0029572.jpg",
+      "name": "ISIC_0029572",
+      "artefact_folder": "src/ISIC_0029572",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0031204.psd",
+      "original_file": "src/ISIC_0031204.jpg",
+      "name": "ISIC_0031204",
+      "artefact_folder": "src/ISIC_0031204",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0033377.psd",
+      "original_file": "src/ISIC_0033377.jpg",
+      "name": "ISIC_0033377",
+      "artefact_folder": "src/ISIC_0033377",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0025309.psd",
+      "original_file": "src/ISIC_0025309.jpg",
+      "name": "ISIC_0025309",
+      "artefact_folder": "src/ISIC_0025309",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "circle",
+      "psd_file": "src/ISIC_0027250.psd",
+      "original_file": "src/ISIC_0027250.jpg",
+      "name": "ISIC_0027250",
+      "artefact_folder": "src/ISIC_0027250",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "circle",
+      "psd_file": "src/ISIC_0027432.psd",
+      "original_file": "src/ISIC_0027432.jpg",
+      "name": "ISIC_0027432",
+      "artefact_folder": "src/ISIC_0027432",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0027734.psd",
+      "original_file": "src/ISIC_0027734.jpg",
+      "name": "ISIC_0027734",
+      "artefact_folder": "src/ISIC_0027734",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "horizontal",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0025400.psd",
+      "original_file": "src/ISIC_0025400.jpg",
+      "name": "ISIC_0025400",
+      "artefact_folder": "src/ISIC_0025400",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "horizontal",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0025769.psd",
+      "original_file": "src/ISIC_0025769.jpg",
+      "name": "ISIC_0025769",
+      "artefact_folder": "src/ISIC_0025769",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "horizontal",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0026154.psd",
+      "original_file": "src/ISIC_0026154.jpg",
+      "name": "ISIC_0026154",
+      "artefact_folder": "src/ISIC_0026154",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "horizontal",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0027284.psd",
+      "original_file": "src/ISIC_0027284.jpg",
+      "name": "ISIC_0027284",
+      "artefact_folder": "src/ISIC_0027284",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "horizontal",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0028410.psd",
+      "original_file": "src/ISIC_0028410.jpg",
+      "name": "ISIC_0028410",
+      "artefact_folder": "src/ISIC_0028410",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "artefact_class": "ruler",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0024338.psd",
+      "original_file": "src/ISIC_0024338.jpg",
+      "name": "ISIC_0024338",
+      "artefact_folder": "src/ISIC_0024338",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0024367.psd",
+      "original_file": "src/ISIC_0024367.jpg",
+      "name": "ISIC_0024367",
+      "artefact_folder": "src/ISIC_0024367",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0024550.psd",
+      "original_file": "src/ISIC_0024550.jpg",
+      "name": "ISIC_0024550",
+      "artefact_folder": "src/ISIC_0024550",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0024669.psd",
+      "original_file": "src/ISIC_0024669.jpg",
+      "name": "ISIC_0024669",
+      "artefact_folder": "src/ISIC_0024669",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0025319.psd",
+      "original_file": "src/ISIC_0025319.jpg",
+      "name": "ISIC_0025319",
+      "artefact_folder": "src/ISIC_0025319",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0025964.psd",
+      "original_file": "src/ISIC_0025964.jpg",
+      "name": "ISIC_0025964",
+      "artefact_folder": "src/ISIC_0025964",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0027179.psd",
+      "original_file": "src/ISIC_0027179.jpg",
+      "name": "ISIC_0027179",
+      "artefact_folder": "src/ISIC_0027179",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0027388.psd",
+      "original_file": "src/ISIC_0027388.jpg",
+      "name": "ISIC_0027388",
+      "artefact_folder": "src/ISIC_0027388",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0033539.psd",
+      "original_file": "src/ISIC_0033539.jpg",
+      "name": "ISIC_0033539",
+      "artefact_folder": "src/ISIC_0033539",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0029348.psd",
+      "original_file": "src/ISIC_0029348.jpg",
+      "name": "ISIC_0029348",
+      "artefact_folder": "src/ISIC_0029348",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "circle",
+      "psd_file": "src/ISIC_0029360.psd",
+      "original_file": "src/ISIC_0029360.jpg",
+      "name": "ISIC_0029360",
+      "artefact_folder": "src/ISIC_0029360",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0030445.psd",
+      "original_file": "src/ISIC_0030445.jpg",
+      "name": "ISIC_0030445",
+      "artefact_folder": "src/ISIC_0030445",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0030589.psd",
+      "original_file": "src/ISIC_0030589.jpg",
+      "name": "ISIC_0030589",
+      "artefact_folder": "src/ISIC_0030589",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "circle",
+      "psd_file": "src/ISIC_0030608.psd",
+      "original_file": "src/ISIC_0030608.jpg",
+      "name": "ISIC_0030608",
+      "artefact_folder": "src/ISIC_0030608",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0033673.psd",
+      "original_file": "src/ISIC_0033673.jpg",
+      "name": "ISIC_0033673",
+      "artefact_folder": "src/ISIC_0033673",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0026372.psd",
+      "original_file": "src/ISIC_0026372.jpg",
+      "name": "ISIC_0026372",
+      "artefact_folder": "src/ISIC_0026372",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0026761.psd",
+      "original_file": "src/ISIC_0026761.jpg",
+      "name": "ISIC_0026761",
+      "artefact_folder": "src/ISIC_0026761",
+      "source": 0
+    },
+    {
+      "class": "bubble",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0030852.psd",
+      "original_file": "src/ISIC_0030852.jpg",
+      "name": "ISIC_0030852",
+      "artefact_folder": "src/ISIC_0030852",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "horizontal",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0029606.psd",
+      "original_file": "src/ISIC_0029606.jpg",
+      "name": "ISIC_0029606",
+      "artefact_folder": "src/ISIC_0029606",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0025647.psd",
+      "original_file": "src/ISIC_0025647.jpg",
+      "name": "ISIC_0025647",
+      "artefact_folder": "src/ISIC_0025647",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0027102.psd",
+      "original_file": "src/ISIC_0027102.jpg",
+      "name": "ISIC_0027102",
+      "artefact_folder": "src/ISIC_0027102",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0029789.psd",
+      "original_file": "src/ISIC_0029789.jpg",
+      "name": "ISIC_0029789",
+      "artefact_folder": "src/ISIC_0029789",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0031259.psd",
+      "original_file": "src/ISIC_0031259.jpg",
+      "name": "ISIC_0031259",
+      "artefact_folder": "src/ISIC_0031259",
+      "source": 0
+    },
+    {
+      "class": "ruler",
+      "subclass": "vertical",
+      "preprocessor": "difference",
+      "psd_file": "src/ISIC_0031522.psd",
+      "original_file": "src/ISIC_0031522.jpg",
+      "name": "ISIC_0031522",
+      "artefact_folder": "src/ISIC_0031522",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "circle",
+      "psd_file": "src/ISIC_0025978.psd",
+      "original_file": "src/ISIC_0025978.jpg",
+      "name": "ISIC_0025978",
+      "artefact_folder": "src/ISIC_0025978",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "circle",
+      "psd_file": "src/ISIC_0027125.psd",
+      "original_file": "src/ISIC_0027125.jpg",
+      "name": "ISIC_0027125",
+      "artefact_folder": "src/ISIC_0027125",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0026665.psd",
+      "original_file": "src/ISIC_0026665.jpg",
+      "name": "ISIC_0026665",
+      "artefact_folder": "src/ISIC_0026665",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0026722.psd",
+      "original_file": "src/ISIC_0026722.jpg",
+      "name": "ISIC_0026722",
+      "artefact_folder": "src/ISIC_0026722",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0028087.psd",
+      "original_file": "src/ISIC_0028087.jpg",
+      "name": "ISIC_0028087",
+      "artefact_folder": "src/ISIC_0028087",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0028602.psd",
+      "original_file": "src/ISIC_0028602.jpg",
+      "name": "ISIC_0028602",
+      "artefact_folder": "src/ISIC_0028602",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0028834.psd",
+      "original_file": "src/ISIC_0028834.jpg",
+      "name": "ISIC_0028834",
+      "artefact_folder": "src/ISIC_0028834",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0031039.psd",
+      "original_file": "src/ISIC_0031039.jpg",
+      "name": "ISIC_0031039",
+      "artefact_folder": "src/ISIC_0031039",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0031048.psd",
+      "original_file": "src/ISIC_0031048.jpg",
+      "name": "ISIC_0031048",
+      "artefact_folder": "src/ISIC_0031048",
+      "source": 0
+    },
+    {
+      "class": "marking",
+      "subclass": "spot",
+      "psd_file": "src/ISIC_0031524.psd",
+      "original_file": "src/ISIC_0031524.jpg",
+      "name": "ISIC_0031524",
+      "artefact_folder": "src/ISIC_0031524",
+      "source": 0
+    }
+  ]
+}
