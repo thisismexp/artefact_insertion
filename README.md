@@ -1,9 +1,10 @@
 # Dermatoscopic artefact insertion
- 
+
+[![DOI:10.5826/dpc.1203a126](https://zenodo.org/badge/DOI/10.5826/dpc.1203a126.svg)](https://doi.org/10.5826/dpc.1203a126)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY%20%20NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![No maintenance intended](http://unmaintained.tech/badge.svg)
 
-> Katsch F, Rinner C, Tschandl P. Comparison of convolutional neural network architectures for robustness against common artefacts in dermatoscopic images. **Dermatol Pract Concept** 2022 [manuscript accepted]
+> Katsch F, Rinner C, Tschandl P. Comparison of convolutional neural network architectures for robustness against common artefacts in dermatoscopic images. Dermatol Pract Concept. 2022;12(3):e2022126. DOI: https://doi.org/10.5826/dpc.1203a126
 
 ## What it does
 
@@ -72,4 +73,4 @@ This project is released under the [CC BY-NC-SA 4.0 license](https://creativecom
 
 It was developed in the context of my master thesis, with the title *"[Analysis of image classification, object detection and instance segmentation in terms of robustness to artefacts in automated pigmented skin lesion classification](https://repositorium.meduniwien.ac.at/urn:nbn:at:at-ubmuw:1-32614)"* at the Medical University of Vienna in 2020, and used in this paper:
 
-> Katsch F, Rinner C, Tschandl P. Comparison of convolutional neural network architectures for robustness against common artefacts in dermatoscopic images. **Dermatol Pract Concept** 2022 [manuscript accepted]
+> Katsch F, Rinner C, Tschandl P. Comparison of convolutional neural network architectures for robustness against common artefacts in dermatoscopic images. Dermatol Pract Concept. 2022;12(3):e2022126. DOI: https://doi.org/10.5826/dpc.1203a126

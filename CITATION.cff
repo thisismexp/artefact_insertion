@@ -1,0 +1,67 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dermatoscopic artefact insertion
+message: >-
+  If you use this software, please cite both the
+  article from preferred-citation.
+type: software
+authors:
+  - given-names: Florian
+    family-names: Katsch
+    affiliation: >-
+      Center for Medical Statistics, Informatics and
+      Intelligent Systems, Medical University of
+      Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0001-7952-9326'
+  - given-names: Christoph
+    family-names: Rinner
+    affiliation: >-
+      Center for Medical Statistics, Informatics and
+      Intelligent Systems, Medical University of
+      Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0002-3847-5664'
+  - given-names: Philipp
+    family-names: Tschandl
+    affiliation: >-
+      Department of Dermatology, Medical University
+      of Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0003-0391-7810'
+identifiers:
+  - type: doi
+    value: 10.5826/dpc.1203a126
+preferred-citation:
+  authors:
+  - given-names: Florian
+    family-names: Katsch
+    affiliation: >-
+      Center for Medical Statistics, Informatics and
+      Intelligent Systems, Medical University of
+      Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0001-7952-9326'
+  - given-names: Christoph
+    family-names: Rinner
+    affiliation: >-
+      Center for Medical Statistics, Informatics and
+      Intelligent Systems, Medical University of
+      Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0002-3847-5664'
+  - given-names: Philipp
+    family-names: Tschandl
+    email: philipp.tschandl@meduniwien.ac.at
+    affiliation: >-
+      Department of Dermatology, Medical University
+      of Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0003-0391-7810'
+  title: Comparison of convolutional neural network 
+    architectures for robustness against common 
+    artefacts in dermatoscopic images.
+  type: article
+  doi: 10.5826/dpc.1203a126
+  journal: Dermatology Practical & Conceptual
+  month: 7
+  year: 2022
+  volume: 12
+  number: 3
+license: CC-BY-NC-4.0
