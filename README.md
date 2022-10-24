@@ -69,7 +69,7 @@ All image files and segmentation masks contained in this package originate from 
 
 ## How to reference
 
-This project is released under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) - see [LICENSE](LICENSE)
+This project is released under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) - see [LICENSE](LICENSE)
 
 It was developed in the context of my master thesis, with the title *"[Analysis of image classification, object detection and instance segmentation in terms of robustness to artefacts in automated pigmented skin lesion classification](https://repositorium.meduniwien.ac.at/urn:nbn:at:at-ubmuw:1-32614)"* at the Medical University of Vienna in 2020, and used in this paper:
 
